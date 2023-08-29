@@ -95,4 +95,6 @@ Here is a graph showing how much of the variance in the data can be explained by
 Here is a scree plot representing the same as the above graph:
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/23853d15-2677-44f5-92d3-6d3ce76a245e)
 
+Acording to the scree plot, 80% of the variance in the dataset can be explained with just the first two PCA components. We will use those moving forward.
+
 
