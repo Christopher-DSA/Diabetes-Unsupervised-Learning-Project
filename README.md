@@ -40,3 +40,9 @@ Channel - Horeca (Hotel/Restaurant/Cafe or Retail channel (Nominal) (1,2)
 - Mauritius is where this dataset comes from based on the currency used
 - Mauritus is a country in East Africa
 
+ #### Meaning of the numbers in the item category columns:
+
+- Annual spending (Mauritian Rupee) on the type of product the category represents.
+- Mauritius is where this dataset comes from based on the currency used
+- Mauritus is a country in East Africa
+
