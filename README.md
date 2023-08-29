@@ -92,3 +92,8 @@ The goal here is to reduce the dimensionality of our data to make it easier for 
 
 Here is a graph showing how much of the variance in the data can be explained by the new features the PCA model has created for us.
 
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/b2a47cb0-4943-4c19-993a-a12d903043fc)
+
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/23853d15-2677-44f5-92d3-6d3ce76a245e)
+
+
