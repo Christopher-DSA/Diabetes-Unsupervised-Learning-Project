@@ -62,4 +62,12 @@ Plotting Distrubution of annual sales by product category:
 
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/4e3c1589-61c0-40b8-9d05-0cfc5d0a9e9a)
 
+## Each cluster represents a different type of customers spending habits. In this case we have 4 different types of customers:
+---
 
+| Cluster | Spending Level  | Shopping Style                                                                                      |
+|---------|-----------------|-----------------------------------------------------------------------------------------------------|
+| 0       | Medium            | Health-conscious or restaurant owners, balanced with a focus on fresh produce and frozen goods.      |
+| 1       | Low             | Possibly prefers processed foods, could be eating out often, low on cleaning supplies.                |
+| 2       | High        | Convenience or fast-food oriented, good amount of dairy and high on cleaning supplies.                |
+| 3       | Medium            | Convenience store types, moderate spending on groceries and cleaning supplies.                        |
