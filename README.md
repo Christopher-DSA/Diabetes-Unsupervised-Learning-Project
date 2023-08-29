@@ -88,12 +88,11 @@ We can use 4 clusters here based off the above dendrogram.
 
 The goal here is to reduce the dimensionality of our data to make it easier for the machine learning models.
 
+Here is a graph showing how much of the variance in the data can be explained by the new features the PCA model has created for us:
+
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/1e979933-f26f-4ede-bcbc-756ea1e8706a)
 
-Here is a graph showing how much of the variance in the data can be explained by the new features the PCA model has created for us.
-
-![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/b2a47cb0-4943-4c19-993a-a12d903043fc)
-
+Here is a scree plot representing the same as the above graph:
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/23853d15-2677-44f5-92d3-6d3ce76a245e)
 
 
