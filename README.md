@@ -49,3 +49,17 @@ Channel - Horeca (Hotel/Restaurant/Cafe or Retail channel (Nominal) (1,2)
 Plotting Distrubution of annual sales by product category:
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/eed086e1-8da2-467d-b217-15b6cdbf5727)
 
+# Part II - KMeans Clustering
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/d9471382-88a6-4074-ae43-da654194db22)
+
+
+## Spending ratios by category, grouped by cluster
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/9385a267-39fa-4a2e-824f-184363288b9c)
+
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/6278356c-f390-430e-bf33-edf66b2d98bd)
+
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/6a5e5a6a-ba22-4362-b287-21e32e7448d5)
+
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/4e3c1589-61c0-40b8-9d05-0cfc5d0a9e9a)
+
+
