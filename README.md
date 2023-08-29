@@ -78,4 +78,17 @@ Plotting Distrubution of annual sales by product category:
 
 # Part III - Hierarchical Clustering 
 
+The goal is to create a dendrogram in order to visually determine what a suitable number of clusters would be for our different kind of customers and their spending habits.
+
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/32c83578-b4f5-436a-a917-ea5c7c18fced)
+
+We can use 4 clusters here based off the above dendrogram.
+
+# Part IV - PCA
+
+The goal here is to reduce the dimensionality of our data to make it easier for the machine learning models.
+
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/1e979933-f26f-4ede-bcbc-756ea1e8706a)
+
+Here is a graph showing how much of the variance in the data can be explained by the new features the PCA model has created for us.
+
