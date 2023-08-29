@@ -98,15 +98,8 @@ Here is a scree plot representing the same as the above graph:
 Acording to the scree plot, 80% of the variance in the dataset can be explained with just the first two PCA components. We will use those moving forward.
 
 #### PCA-Loadings
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/d056759c-0c6c-4808-a297-1f32c8eb9b7d)
 
-![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/65d68fee-a431-4c32-a367-26f5aec41936)
-
-### PCA components are on a range of 1 to -1
-- A value closer to positive 1 represents a strong positive infulence on the PCA component when that variable increases.
-- A value closer to negative 1 represents a strong neagative infulence on the PCA component when that variable increases.
-
-- For PC1, we observe a slight negative loading for the "Fresh" category, while "Milk," "Grocery," and "Detergents_Paper" have prominent positive loadings.
-- For PC2, we observe a high positive loading for "Fresh," coupled with moderate positive loadings for "Milk," "Grocery," and "Delicassen."
 
 # Part V - Conclusion
 
