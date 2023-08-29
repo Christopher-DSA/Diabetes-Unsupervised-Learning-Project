@@ -71,3 +71,6 @@ Plotting Distrubution of annual sales by product category:
 | 1       | Low             | Possibly prefers processed foods, could be eating out often, low on cleaning supplies.                |
 | 2       | High        | Convenience or fast-food oriented, good amount of dairy and high on cleaning supplies.                |
 | 3       | Medium            | Convenience store types, moderate spending on groceries and cleaning supplies.                        |
+
+
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/2d71f379-5c84-4bd9-80c5-a94f60ba8e43)
