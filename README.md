@@ -22,3 +22,17 @@ Cleaning the data:
 - Generated summary statsitics to spot any obvious errrors:
 - ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/f5ad5388-e8ea-4b9c-b255-a5373dbf648e)
 
+Exploring the Data (what does it all mean?):
+
+- Finding out what the numbers in the columns represent in plain english:
+
+####  Meaning of the numbers in the 'region' and 'channel' columns
+- There are 2 Channels and 3 regions in this wholesale dataset.
+Regions - Lisnon, Oporto or Other (Nominal) (1,2,3)
+Channel - Horeca (Hotel/Restaurant/Cafe or Retail channel (Nominal) (1,2)
+
+#### Meaning of the numbers in the item category columns:
+- Annual spending (Mauritian Rupee) on the type of product the category represents.
+- Mauritius is where this dataset comes from based on the currency used
+- Mauritus is a country in East Africa
+
