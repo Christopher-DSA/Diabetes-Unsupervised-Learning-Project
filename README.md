@@ -101,7 +101,6 @@ Acording to the scree plot, about 80% of the variance in the dataset can be expl
 # Part V - Conclusion
 
 - Classifying customers in to 4 clusters with k-means seems to have worked the best.
-- This dataset comes from a wholesale chain in east africa, more specifcally Mauritus.
+- This dataset comes from a wholesale chain in east africa, more specifically Mauritius.
 - There are customers who purchase similar ratios of items (eg. 50% grocery and 50% frozen) but spend more or less money (eg. 100 dollars vs 1000 dollars)
-- The data we have is a little bit biased to region 3 ('other') since there are many more data points for that region than 1 or 2. However in our use case it didin't have a signifigant effect. Caution should be taken if using this dataset for future buisness applications other than this one.
-
+- The data we have is a little bit biased to region 3 ('other') since there are many more data points for that region than 1 or 2. However in our use case it didn't have a significant effect. Caution should be taken if using this dataset for future business applications other than this one.
