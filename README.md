@@ -16,4 +16,9 @@ The project will involve the following tasks:
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
 
 ## Process Steps
+Cleaning the data:
+- Checked for NULL/missing data: no nulls
+- Checked for duplicates in the data: no duplicates
+- Generated summary statsitics to spot any obvious errrors:
+- ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/f5ad5388-e8ea-4b9c-b255-a5373dbf648e)
 
