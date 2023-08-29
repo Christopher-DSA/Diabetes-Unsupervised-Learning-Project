@@ -108,3 +108,10 @@ Acording to the scree plot, 80% of the variance in the dataset can be explained 
 - For PC1, we observe a slight negative loading for the "Fresh" category, while "Milk," "Grocery," and "Detergents_Paper" have prominent positive loadings.
 - For PC2, we observe a high positive loading for "Fresh," coupled with moderate positive loadings for "Milk," "Grocery," and "Delicassen."
 
+# Part V - Conclusion
+
+- Classifying customers in to 4 clusters with k-means seems to have worked the best.
+- This dataset comes from a wholesale chain in east africa, more specifcally Mauritus.
+- There are customers who purchase similar ratios of items (eg. 50% grocery and 50% frozen) but spend more or less money (eg. 100 dollars vs 1000 dollars)
+- The data we have is a little bit biased to region 3 ('other') since there are many more data points for that region than 1 or 2. However in our use case it didin't have a signifigant effect. Caution should be taken if using this dataset for future buisness applications other than this one.
+
