@@ -76,6 +76,6 @@ Plotting Distrubution of annual sales by product category:
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/2d71f379-5c84-4bd9-80c5-a94f60ba8e43)
 
 
-## Hiearchal Clustering
+# Part III - Hierarchical Clustering 
 
 ![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/32c83578-b4f5-436a-a917-ea5c7c18fced)
