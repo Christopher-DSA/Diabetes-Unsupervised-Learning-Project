@@ -46,3 +46,6 @@ Channel - Horeca (Hotel/Restaurant/Cafe or Retail channel (Nominal) (1,2)
 - Mauritius is where this dataset comes from based on the currency used
 - Mauritus is a country in East Africa
 
+Plotting Distrubution of annual sales by product category:
+![image](https://github.com/Christopher-DSA/Unsupervised-Learning-Project/assets/132075292/eed086e1-8da2-467d-b217-15b6cdbf5727)
+
